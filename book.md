@@ -10,7 +10,7 @@ license: GNU GENERAL PUBLIC LISENCE 3
 
 
 [TOC]  
-@import "preface.md"
+@import "前言.md"
 @import "Chapter1/1.1从线性方程组到矩阵.md"  
 @import "Chapter1/1.2四种视角.md"  
 @import "Chapter1/1.3坐标变换.md"  

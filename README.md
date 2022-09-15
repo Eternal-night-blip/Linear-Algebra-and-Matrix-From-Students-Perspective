@@ -4,7 +4,7 @@
 
 &emsp;This is a quick start book *Linear Algebra and Matrix From Students' Perspective* for linear algebra and matrix analysis Learning by li yi jia(Eternal-night-blip at github) at Central China Normal University.  
 
-&emsp;The table of contents is here. [目录](table.md)  
+&emsp;The table of contents is here. [目录](book.md)  
 
 &emsp;I want more people to assist me to finish the book to help helpless undergraduate students in linear algebra course, the student major in AI and Data Science to make a solide foundation of linear algebra and matrix analysis,then for optimization, machine learning, computer graphics and so on.  
 
